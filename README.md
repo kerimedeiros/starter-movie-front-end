@@ -1,10 +1,10 @@
 # WeLoveMovies Frontend Application
 
-This is the Front End Application for the WeLoveMovies project, designed by the Thinkful team as part of the Thinkful Software Engineering Program [here](https://github.com/Thinkful-Ed/starter-movie-front-end). 
+This is the Frontend Application for the WeLoveMovies project, designed by the Thinkful team as part of the Thinkful Software Engineering Program [here](https://github.com/Thinkful-Ed/starter-movie-front-end). 
 
 The corresponding server for the backend of this application can be found [here](https://github.com/kerimedeiros/we-love-movies). 
 
-Deployed application: https://we-love-movies-front-end-vvvk.onrender.com/ 
+Deployed application: https://we-love-movies-front-enzd-vvvk.onrender.com/ 
 
 
 ## Installation
