@@ -4,7 +4,7 @@ This is the Frontend Application for the WeLoveMovies project, designed by the T
 
 The corresponding server for the backend of this application can be found [here](https://github.com/kerimedeiros/we-love-movies). 
 
-Deployed application: https://we-love-movies-front-enzd-vvvk.onrender.com/ 
+Deployed application: https://we-love-movies-front-end-vvvk.onrender.com/ 
 
 
 ## Installation
